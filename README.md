@@ -2,12 +2,12 @@
 
 <p>Me chamo Carolina Rosello, estou em transição de carreira da Educação (História e Pedagogia) para o TI. Apaixonada por tecnologia e desenvolvimento web front-end. Buscando oportunidades para aplicar minha criatividade e habilidades técnicas em projetos empolgantes. 🖖🏽 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=carolinarosello&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=carolinarosello&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarosello&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=carolinarosello&theme=bear&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarosello&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-rosello) 
+
 
 <div>
 
